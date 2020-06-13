@@ -10,7 +10,7 @@ Next install dependencies:<br>
 `pip3 install keyboard`
 
 ##### Finally, to execute the script:
-`cd MacBook-Backlight-KDE`
+`cd MacBook-Backlight-KDE`<br>
 `sudo python3 script.py`
 
 As of yet, there is no way to execute the script on boot, as it requires your sudo credentials. You will manually have to execute the script every time your computer restarts.
