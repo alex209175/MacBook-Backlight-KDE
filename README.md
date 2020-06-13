@@ -4,7 +4,7 @@
 *Note: This will only work with the fn key being pressed at the same time.*
 
 ##### To install:
-First, open the terminal and type in <br> `git clone https://github.com/alex209175/MacBook-Backlight-KDE.git.`<br>
+First, open the terminal and type in <br> `git clone https://github.com/alex209175/MacBook-Backlight-KDE.git.`<br><br>
 Next install dependencies:<br>
 `sudo apt-get install xbacklight python3-pip`<br>
 `pip3 install keyboard`
