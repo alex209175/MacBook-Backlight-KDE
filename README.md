@@ -13,6 +13,9 @@ Next install dependencies:<br>
 `cd MacBook-Backlight-KDE`<br>
 `sudo python3 script.py`
 
-As of yet, there is no way to execute the script on boot, as it requires your sudo credentials. You will manually have to execute the script every time your computer restarts.
+As of yet, there is no way to execute the script on boot, as it requires your sudo credentials. You will manually have to execute the script every time your computer restarts.<br><br>
+
+After executing the script, you are able to safely close the terminal window, ignoring the warnings. The script will stay executing as long as you don't press ctr+c.
+
 <br><br><br>
 #### Website: www.42-incorporated.rf.gd 
